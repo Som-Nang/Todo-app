@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"C:\\Users\\User\\Desktop\\toapp-demo\\app\\page":[]}}
